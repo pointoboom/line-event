@@ -31,7 +31,6 @@ async function init() {
                 default:
                     break;
             }
-
         } catch (error) {
 
         }
